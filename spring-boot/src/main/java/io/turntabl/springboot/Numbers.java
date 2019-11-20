@@ -7,11 +7,11 @@ public class Numbers {
         this.value=value;
     }
 
-    public int getNum() {
+    public int getValue() {
         return value;
     }
 
-    public void setNum(int num) {
+    public void setValue(int value) {
         this.value = value;
     }
 }
