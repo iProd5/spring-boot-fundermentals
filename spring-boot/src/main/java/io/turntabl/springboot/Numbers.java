@@ -4,6 +4,7 @@ public class Numbers {
     private int value;
 
     public Numbers(int value) {
+        this.value=value;
     }
 
     public int getNum() {
