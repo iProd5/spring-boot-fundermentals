@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.turntabl.springboot.MathsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-11-20T17:37:54" hostname="ip-172-31-19-39" time="0.021">
+  <properties/>
+  <testcase name="add()" classname="io.turntabl.springboot.MathsTest" time="0.018"/>
+  <testcase name="substract()" classname="io.turntabl.springboot.MathsTest" time="0.001"/>
+  <testcase name="ZerosubstractedZero()" classname="io.turntabl.springboot.MathsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
